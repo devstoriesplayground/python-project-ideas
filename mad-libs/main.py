@@ -1,9 +1,5 @@
-from wonderwords import RandomSentence, RandomWord
-import requests
 
 def main():
-    import random
-
 
     loop = 1
 
