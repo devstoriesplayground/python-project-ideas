@@ -16,35 +16,35 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 ✅BMI Calculator — Calculates Body Mass Index from user input. <br>
 
 
-🚀 Intermediate Level
-✅ To-Do List Application — Command-line app to manage daily tasks.
-✅ Weather App — Fetches and displays weather data for a location.
-✅ Password Generator — Creates secure passwords based on settings.
-✅ YouTube Video Downloader — Downloads videos from YouTube via URL.
-✅ Prime Number Finder — Finds prime numbers within a range.
+🚀 Intermediate Level <br>
+✅ To-Do List Application — Command-line app to manage daily tasks. <br>
+✅ Weather App — Fetches and displays weather data for a location. <br>
+✅ Password Generator — Creates secure passwords based on settings. <br>
+✅ YouTube Video Downloader — Downloads videos from YouTube via URL. <br>
+✅ Prime Number Finder — Finds prime numbers within a range. <br>
 
-🧠 Advanced Level
-🔄 Web Scraper — Extracts and stores data from websites.
-🔜 Chat Application — Real-time chat app using sockets.
-🔜 Machine Learning Model — Implements a machine learning solution.
-🔜 Blockchain Implementation — Builds a simple blockchain demo.
-🔜 Game Development — Creates a game using Pygame.
-
-
-🚧 Progress
-Beginner: ✅ Completed
-Intermediate: 🔄 In Progress
-Advanced: 🔜 Coming Soon
+🧠 Advanced Level <br>
+🔄 Web Scraper — Extracts and stores data from websites. <br>
+🔜 Chat Application — Real-time chat app using sockets. <br>
+🔜 Machine Learning Model — Implements a machine learning solution. <br>
+🔜 Blockchain Implementation — Builds a simple blockchain demo. <br>
+🔜 Game Development — Creates a game using Pygame. <br>
 
 
-🛠 Technologies
-Python 3.x
-Libraries: Requests, BeautifulSoup, Socket, Pygame, scikit-learn (for ML), etc.
+🚧 Progress <br>
+* Beginner: ✅ Completed
+* Intermediate: 🔄 In Progress
+* Advanced: 🔜 Coming Soon
 
-🎯 Goals
-Practice problem-solving and algorithmic thinking.
-Learn real-world programming techniques.
-Build a portfolio to showcase on GitHub.
 
-📃 License
+🛠 Technologies <br>
+Python 3.x <br>
+Libraries: Requests, BeautifulSoup, Socket, Pygame, scikit-learn (for ML), etc. <br>
+
+🎯 Goals <br>
+* Practice problem-solving and algorithmic thinking.
+* Learn real-world programming techniques.
+* Build a portfolio to showcase on GitHub.
+
+📃 License <br>
 This repository is licensed under the MIT License.
