@@ -8,6 +8,8 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 * Intermediate Level
 * Advanced Level
 
+<br>
+
 🐣 Beginner Level
 ✅ Mad Libs Game — A simple game that generates a story based on user input.
 ✅ Number Guessing Game — Computer guesses a number based on user feedback. 
