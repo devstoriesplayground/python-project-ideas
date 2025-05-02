@@ -46,8 +46,8 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 
 #### 🚧 Progress <br>
 Beginner: ✅ Completed <br>
-Intermediate: 🔄 In Progress <br>
-Advanced: 🔜 Coming Soon <br>
+Intermediate: ✅ Completed <br>
+Advanced: 🔄 In Progress <br>
 
 <br>
 
