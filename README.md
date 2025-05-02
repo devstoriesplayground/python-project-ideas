@@ -9,11 +9,11 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 * Advanced Level
 
 🐣 Beginner Level <br>
-✅ Mad Libs Game — A simple game that generates a story based on user input. <\n>
-✅ Number Guessing Game — Computer guesses a number based on user feedback. <\n>
-✅ Calculator — Basic calculator for arithmetic operations. <\n>
-✅ Unit Converter — Converts units (e.g., kilometers to miles). <\n>
-✅BMI Calculator — Calculates Body Mass Index from user input. <\n>
+✅ Mad Libs Game — A simple game that generates a story based on user input. <br>
+✅ Number Guessing Game — Computer guesses a number based on user feedback. <br>
+✅ Calculator — Basic calculator for arithmetic operations. <br>
+✅ Unit Converter — Converts units (e.g., kilometers to miles). <br>
+✅BMI Calculator — Calculates Body Mass Index from user input. <br>
 
 
 🚀 Intermediate Level
