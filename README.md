@@ -7,6 +7,10 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 * [Beginner Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-beginner-level-)
 * [Intermediate Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-intermediate-level-)
 * [Advanced Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-advanced-level-)
+* [Progress](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-progress-)
+* [Technologies](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-technologies-)
+* [Goals](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-goals-)
+* [License](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-license-)
 
 <br>
 
