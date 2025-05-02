@@ -8,7 +8,8 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 * Intermediate Level
 * Advanced Level
 
-🐣 Beginner Level <br>
+#### 🐣 Beginner Level <br>
+
 ✅ Mad Libs Game — A simple game that generates a story based on user input. <br>
 ✅ Number Guessing Game — Computer guesses a number based on user feedback. <br>
 ✅ Calculator — Basic calculator for arithmetic operations. <br>
@@ -16,14 +17,16 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 ✅BMI Calculator — Calculates Body Mass Index from user input. <br>
 
 
-🚀 Intermediate Level <br>
+#### 🚀 Intermediate Level <br>
+
 ✅ To-Do List Application — Command-line app to manage daily tasks. <br>
 ✅ Weather App — Fetches and displays weather data for a location. <br>
 ✅ Password Generator — Creates secure passwords based on settings. <br>
 ✅ YouTube Video Downloader — Downloads videos from YouTube via URL. <br>
 ✅ Prime Number Finder — Finds prime numbers within a range. <br>
 
-🧠 Advanced Level <br>
+#### 🧠 Advanced Level <br>
+
 🔄 Web Scraper — Extracts and stores data from websites. <br>
 🔜 Chat Application — Real-time chat app using sockets. <br>
 🔜 Machine Learning Model — Implements a machine learning solution. <br>
@@ -31,20 +34,23 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 🔜 Game Development — Creates a game using Pygame. <br>
 
 
-🚧 Progress <br>
+#### 🚧 Progress <br>
 * Beginner: ✅ Completed
 * Intermediate: 🔄 In Progress
 * Advanced: 🔜 Coming Soon
 
 
-🛠 Technologies <br>
+#### 🛠 Technologies <br>
+
 Python 3.x <br>
 Libraries: Requests, BeautifulSoup, Socket, Pygame, scikit-learn (for ML), etc. <br>
 
-🎯 Goals <br>
-* Practice problem-solving and algorithmic thinking.
-* Learn real-world programming techniques.
-* Build a portfolio to showcase on GitHub.
+### 🎯 Goals <br>
 
-📃 License <br>
+Practice problem-solving and algorithmic thinking. <br>
+Learn real-world programming techniques. <br>
+Build a portfolio to showcase on GitHub.<br>
+
+#### 📃 License <br>
+
 This repository is licensed under the MIT License.
