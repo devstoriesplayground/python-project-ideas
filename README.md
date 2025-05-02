@@ -4,9 +4,9 @@ A collection of Python project ideas, organized by difficulty level. Great for l
 
 ### 📜 Table of Contents
 
-* Beginner Level
-* Intermediate Level
-* Advanced Level
+* [Beginner Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-beginner-level-)
+* [Intermediate Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-intermediate-level-)
+* [Advanced Level](https://github.com/devstoriesplayground/python-project-ideas/blob/master/README.md#-advanced-level-)
 
 <br>
 
